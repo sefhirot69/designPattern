@@ -1,0 +1,22 @@
+{
+    "name": "sefhirot69/design-pattern",
+    "autoload": {
+        "psr-4": {
+            "Sefhirot69\\DesignPattern\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sefhirot69\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sefhirot69",
+            "email": "josalillo@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
